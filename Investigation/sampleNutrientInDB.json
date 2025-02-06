@@ -1,0 +1,899 @@
+{
+    "_id": {
+      "$oid": "67a5400969aecaca395e6500"
+    },
+    "original_ID": "wm_188477562",
+    "name": "Muncheros Hot & Spicy Peanuts, 14 oz",
+    "store": "Walmart",
+    "brand": "Muncheros",
+    "url": "https://www.walmart.com/ip/188477562",
+    "store category": [
+      "Pantry",
+      "Herbs, Spices & Seasoning",
+      "Spices"
+    ],
+    "Navbar": [
+      null
+    ],
+    "store category cleaned str": "['pantry', 'herbs-spices-seasoning', 'spices']",
+    "FPro rank percentile": 0.5646551724137931,
+    "harmonized category 2": "spices-seasoning",
+    "harmonized category 3": "",
+    "harmonized single category": "spices-seasoning",
+    "store category cleaned": [
+      "pantry",
+      "herbs-spices-seasoning",
+      "spices"
+    ],
+    "group": {
+      "$numberDouble": "NaN"
+    },
+    "Number Nutrients Filtered": 14,
+    "diets": [
+      null
+    ],
+    "Number Nutrients": 14,
+    "additives": [
+      null
+    ],
+    "allergenList": [
+      null
+    ],
+    "ingredientList": [
+      "peanuts",
+      " spicy seasoning (salt",
+      " ground chili peppers",
+      " ground cayenne peppers",
+      " natural flavors",
+      " torula yeast",
+      " silicon dioxide)",
+      " vegetable oil (contains one or more of the following: peanut",
+      " canola",
+      " sunflower and/or soybean oil)."
+    ],
+    "package_weight": 396.893,
+    "isConverted": 1,
+    "has10P": 1,
+    "has11P": 1,
+    "has12P": 1,
+    "12P FPro": 0.5168333333333333,
+    "12P min_FPro": 0.5108333333333334,
+    "12P std_FPro": 0.0036356007196325,
+    "12P class": 2,
+    "12P p1": 0.0458888888888888,
+    "12P p2": 0.0006666666666666,
+    "12P p3": 0.8738888888888889,
+    "12P p4": 0.0795555555555555,
+    "price": {
+      "$numberDouble": "NaN"
+    },
+    "package_calories": 2249.060333333333,
+    "price percal": {
+      "$numberDouble": "NaN"
+    },
+    "price pergram": {
+      "$numberDouble": "NaN"
+    },
+    "Original UoM": "g",
+    "UoM Grams Converted Value": 30,
+    "Original UoM Value": "30.00",
+    "Serving Text": "30.00 g",
+    "Edamam converted": 0,
+    "Edamam Nutrient Facts": 0,
+    "price_unit": {
+      "$numberDouble": "NaN"
+    },
+    "Protein": 23.33333333333333,
+    "Protein Conv": "[7.0, \"7 g\", 7.0]",
+    "Total Fat": 50,
+    "Total Fat Conv": "[15.0, \"15 g\", 15.0]",
+    "Carbohydrate": 16.666666666666668,
+    "Carbohydrate Conv": "[5.0, \"5 g\", 5.0]",
+    "Sugars, total": 3.333333333333333,
+    "Sugars, total Conv": "[1.0, \"1 g\", 1.0]",
+    "Fiber, total dietary": 10,
+    "Fiber, total dietary Conv": "[3.0, \"3 g\", 3.0]",
+    "Calcium": 0.0866666666666666,
+    "Calcium Conv": "[2.0, \"DV\", 0.026]",
+    "Iron": 0.0048,
+    "Iron Conv": "[8.0, \"DV\", 0.0014399999999999999]",
+    "Sodium": 0.9666666666666666,
+    "Sodium Conv": "[290.0, \"290 mg\", 0.29]",
+    "Vitamin C": 0,
+    "Vitamin C Conv": "[0.0, \"DV\", 0.0]",
+    "Cholesterol": 0,
+    "Cholesterol Conv": "[0.0, \"0.00 mg\", 0.0]",
+    "Fatty acids, total saturated": 6.666666666666667,
+    "Fatty acids, total saturated Conv": "[2.0, \"2 g\", 2.0]",
+    "Total Vitamin A": 0.00012,
+    "Total Vitamin A Conv": "[4.0, \"DV\", 3.6e-05]",
+    "addedSugar": {
+      "$numberDouble": "NaN"
+    },
+    "addedSugar Conv": {
+      "$numberDouble": "NaN"
+    },
+    "zinc": {
+      "$numberDouble": "NaN"
+    },
+    "zinc Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminK": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminK Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminE": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminE Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB6": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB6 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB12": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB12 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD2": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD2 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD3": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminD3 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB": {
+      "$numberDouble": "NaN"
+    },
+    "vitaminB Conv": {
+      "$numberDouble": "NaN"
+    },
+    "transFat": 0,
+    "transFat Conv": "[0.0, \"0 g\", 0.0]",
+    "thiamin": {
+      "$numberDouble": "NaN"
+    },
+    "thiamin Conv": {
+      "$numberDouble": "NaN"
+    },
+    "selenium": {
+      "$numberDouble": "NaN"
+    },
+    "selenium Conv": {
+      "$numberDouble": "NaN"
+    },
+    "riboflavin": {
+      "$numberDouble": "NaN"
+    },
+    "riboflavin Conv": {
+      "$numberDouble": "NaN"
+    },
+    "potassium": {
+      "$numberDouble": "NaN"
+    },
+    "potassium Conv": {
+      "$numberDouble": "NaN"
+    },
+    "polyunsaturatedFat": {
+      "$numberDouble": "NaN"
+    },
+    "polyunsaturatedFat Conv": {
+      "$numberDouble": "NaN"
+    },
+    "phosphorus": {
+      "$numberDouble": "NaN"
+    },
+    "phosphorus Conv": {
+      "$numberDouble": "NaN"
+    },
+    "pantothenicAcid": {
+      "$numberDouble": "NaN"
+    },
+    "pantothenicAcid Conv": {
+      "$numberDouble": "NaN"
+    },
+    "niacin": {
+      "$numberDouble": "NaN"
+    },
+    "niacin Conv": {
+      "$numberDouble": "NaN"
+    },
+    "monounsaturatedFat": {
+      "$numberDouble": "NaN"
+    },
+    "monounsaturatedFat Conv": {
+      "$numberDouble": "NaN"
+    },
+    "manganese": {
+      "$numberDouble": "NaN"
+    },
+    "manganese Conv": {
+      "$numberDouble": "NaN"
+    },
+    "magnesium": {
+      "$numberDouble": "NaN"
+    },
+    "magnesium Conv": {
+      "$numberDouble": "NaN"
+    },
+    "folate": {
+      "$numberDouble": "NaN"
+    },
+    "folate Conv": {
+      "$numberDouble": "NaN"
+    },
+    "copper": {
+      "$numberDouble": "NaN"
+    },
+    "copper Conv": {
+      "$numberDouble": "NaN"
+    },
+    "folicAcid": {
+      "$numberDouble": "NaN"
+    },
+    "folicAcid Conv": {
+      "$numberDouble": "NaN"
+    },
+    "water": {
+      "$numberDouble": "NaN"
+    },
+    "water Conv": {
+      "$numberDouble": "NaN"
+    },
+    "maltose": {
+      "$numberDouble": "NaN"
+    },
+    "maltose Conv": {
+      "$numberDouble": "NaN"
+    },
+    "lactose": {
+      "$numberDouble": "NaN"
+    },
+    "lactose Conv": {
+      "$numberDouble": "NaN"
+    },
+    "galactose": {
+      "$numberDouble": "NaN"
+    },
+    "galactose Conv": {
+      "$numberDouble": "NaN"
+    },
+    "fructose": {
+      "$numberDouble": "NaN"
+    },
+    "fructose Conv": {
+      "$numberDouble": "NaN"
+    },
+    "dextrose": {
+      "$numberDouble": "NaN"
+    },
+    "dextrose Conv": {
+      "$numberDouble": "NaN"
+    },
+    "biotin": {
+      "$numberDouble": "NaN"
+    },
+    "biotin Conv": {
+      "$numberDouble": "NaN"
+    },
+    "solubleFiber": {
+      "$numberDouble": "NaN"
+    },
+    "solubleFiber Conv": {
+      "$numberDouble": "NaN"
+    },
+    "iodine": {
+      "$numberDouble": "NaN"
+    },
+    "iodine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "insolubleFiber": {
+      "$numberDouble": "NaN"
+    },
+    "insolubleFiber Conv": {
+      "$numberDouble": "NaN"
+    },
+    "choline": {
+      "$numberDouble": "NaN"
+    },
+    "choline Conv": {
+      "$numberDouble": "NaN"
+    },
+    "sugarAlcohol": {
+      "$numberDouble": "NaN"
+    },
+    "sugarAlcohol Conv": {
+      "$numberDouble": "NaN"
+    },
+    "molybdenum": {
+      "$numberDouble": "NaN"
+    },
+    "molybdenum Conv": {
+      "$numberDouble": "NaN"
+    },
+    "chloride": {
+      "$numberDouble": "NaN"
+    },
+    "chloride Conv": {
+      "$numberDouble": "NaN"
+    },
+    "chromium": {
+      "$numberDouble": "NaN"
+    },
+    "chromium Conv": {
+      "$numberDouble": "NaN"
+    },
+    "lycopene": {
+      "$numberDouble": "NaN"
+    },
+    "lycopene Conv": {
+      "$numberDouble": "NaN"
+    },
+    "caffeine": {
+      "$numberDouble": "NaN"
+    },
+    "caffeine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "omega 3": {
+      "$numberDouble": "NaN"
+    },
+    "omega 3 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "omega 9": {
+      "$numberDouble": "NaN"
+    },
+    "omega 9 Conv": {
+      "$numberDouble": "NaN"
+    },
+    "acetic acid": {
+      "$numberDouble": "NaN"
+    },
+    "acetic acid Conv": {
+      "$numberDouble": "NaN"
+    },
+    "lactic acid": {
+      "$numberDouble": "NaN"
+    },
+    "lactic acid Conv": {
+      "$numberDouble": "NaN"
+    },
+    "alanine": {
+      "$numberDouble": "NaN"
+    },
+    "alanine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "arginine": {
+      "$numberDouble": "NaN"
+    },
+    "arginine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "proline": {
+      "$numberDouble": "NaN"
+    },
+    "proline Conv": {
+      "$numberDouble": "NaN"
+    },
+    "serine": {
+      "$numberDouble": "NaN"
+    },
+    "serine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "aspartic acid": {
+      "$numberDouble": "NaN"
+    },
+    "aspartic acid Conv": {
+      "$numberDouble": "NaN"
+    },
+    "glycine": {
+      "$numberDouble": "NaN"
+    },
+    "glycine Conv": {
+      "$numberDouble": "NaN"
+    },
+    "calories": 566.6666666666666,
+    "calories Conv": "[170.0, \"\", 566.6666666666666]",
+    "fatCalories": {
+      "$numberDouble": "NaN"
+    },
+    "fatCalories Conv": {
+      "$numberDouble": "NaN"
+    },
+    "harmonized category 1": "pantry",
+    "sim_ingreds_oID_list": [
+      [
+        "wm_835593418",
+        0.22226259012647318,
+        0,
+        0.22226259012647318
+      ],
+      [
+        "wm_45082131",
+        0.21950156416216915,
+        0,
+        0.21950156416216915
+      ],
+      [
+        "wm_12329756",
+        0.21520335437295868,
+        0.5474095582203913,
+        0.11780437314484762
+      ],
+      [
+        "wm_44901222",
+        0.21950156416216915,
+        0.5187393135258449,
+        0.11386409071133283
+      ],
+      [
+        "wm_50003598",
+        0.21257892322206895,
+        0.5328206988039457,
+        0.11326645042217309
+      ],
+      [
+        "wm_594809000",
+        0.21257892322206895,
+        0.5105749324422806,
+        0.10853746936276061
+      ],
+      [
+        "wm_12335104",
+        0.21257892322206895,
+        0.4859595140117263,
+        0.10330475021813271
+      ],
+      [
+        "wm_31955541",
+        0.1929472618129254,
+        0.47158594942464616,
+        0.0909912176509342
+      ],
+      [
+        "tg_47086501",
+        0.18605183347762824,
+        0.4834515636493324,
+        0.08994704981458458
+      ],
+      [
+        "wm_486203982",
+        0.21257892322206895,
+        0.41966584153318975,
+        0.0892121127062089
+      ],
+      [
+        "tg_79536592",
+        0.18716715647235146,
+        0.4582479386739021,
+        0.08576896364091076
+      ],
+      [
+        "tg_79536496",
+        0.18716715647235146,
+        0.45218733261329613,
+        0.08463461723804803
+      ],
+      [
+        "tg_14695555",
+        0.17893659525914424,
+        0.4701689790939284,
+        0.08413043631553532
+      ],
+      [
+        "tg_53321685",
+        0.22627391154502915,
+        0.3717391125179105,
+        0.08411486306370532
+      ],
+      [
+        "tg_14933630",
+        0.17893659525914424,
+        0.4474417063666557,
+        0.08006369551419114
+      ],
+      [
+        "tg_13819568",
+        0.17893659525914424,
+        0.3979601534368268,
+        0.07120963490479242
+      ],
+      [
+        "wf_cape-cod-original-salted-potato-chips-5-oz-b07v7kvj2c",
+        0.17451083237301052,
+        0.29121082602319925,
+        0.050819443645340454
+      ],
+      [
+        "wf_cape-cod-reduced-fat-potato-chips-5-oz-b0005xms0c",
+        0.17507016196394967,
+        0.2819045277463128,
+        0.04935307133091773
+      ],
+      [
+        "wf_cape-cod-reduced-fat-potato-chips-a8f9bc",
+        0.17507016196394967,
+        0.2819045277463128,
+        0.04935307133091773
+      ],
+      [
+        "tg_15115971",
+        0.17893659525914424,
+        0.26470588235294124,
+        0.047365569333302895
+      ]
+    ],
+    "weight_conv_from_title": [
+      14,
+      "oz",
+      396.893
+    ],
+    "weight_grams_from_title": 396.893,
+    "weight_unit_from_title": "oz",
+    "f_FPro": 0.5168333333333333,
+    "f_FPro_P": "12P_min10",
+    "f_FPro_src": "GDB",
+    "f_min_FPro": 0.5108333333333334,
+    "f_std_FPro": 0.0036356007196325,
+    "f_FPro_class": 2,
+    "tree_height": 3,
+    "tree_width": 3,
+    "bad_tree": false,
+    "num_additives": 2,
+    "num_amount_nodes": 1,
+    "num_ingredients": 11,
+    "num_marker_nodes": 0,
+    "Nutritional_similarity_score_across_stores": [
+      [
+        "wm_12329756",
+        0.12476144323256982
+      ],
+      [
+        "wm_44901222",
+        0.12140962452924972
+      ],
+      [
+        "wm_50003598",
+        0.12036019847930848
+      ],
+      [
+        "wm_594809000",
+        0.11720759051770295
+      ],
+      [
+        "wm_12335104",
+        0.11111004828984243
+      ],
+      [
+        "wm_486203982",
+        0.09949268024919722
+      ],
+      [
+        "wm_31955541",
+        0.09827379223393357
+      ],
+      [
+        "tg_47086501",
+        0.09681167721908769
+      ],
+      [
+        "tg_53321685",
+        0.09596145043714897
+      ],
+      [
+        "tg_79536592",
+        0.09421881304353083
+      ],
+      [
+        "tg_79536496",
+        0.0931789955075733
+      ],
+      [
+        "tg_14695555",
+        0.09203094956083605
+      ],
+      [
+        "tg_14933630",
+        0.08830310382627053
+      ],
+      [
+        "tg_13819568",
+        0.0801868816009884
+      ],
+      [
+        "wf_cape-cod-original-salted-potato-chips-5-oz-b07v7kvj2c",
+        0.06112705937264628
+      ],
+      [
+        "wf_cape-cod-reduced-fat-potato-chips-5-oz-b0005xms0c",
+        0.05982949555033704
+      ],
+      [
+        "wf_cape-cod-reduced-fat-potato-chips-a8f9bc",
+        0.05982949555033704
+      ],
+      [
+        "tg_15115971",
+        0.047365569333302895
+      ],
+      [
+        "wm_835593418",
+        0
+      ],
+      [
+        "wm_45082131",
+        0
+      ]
+    ],
+    "fdc_id_list": [
+      [
+        1593635,
+        0.7071093530718511,
+        null,
+        0.7071093530718511
+      ],
+      [
+        1115310,
+        0.7071093530718511,
+        null,
+        0.7071093530718511
+      ],
+      [
+        1301527,
+        0.7071093530718511,
+        null,
+        0.7071093530718511
+      ],
+      [
+        479379,
+        0.7071093530718511,
+        0.7981934039399909,
+        0.5644100214862257
+      ],
+      [
+        503372,
+        0.7071093530718511,
+        0.7981934039399909,
+        0.5644100214862257
+      ],
+      [
+        421113,
+        0.7071093530718511,
+        0.7981934039399909,
+        0.5644100214862257
+      ],
+      [
+        1202942,
+        0.5407613924321397,
+        null,
+        0.5407613924321397
+      ],
+      [
+        1494990,
+        0.5407613924321397,
+        null,
+        0.5407613924321397
+      ],
+      [
+        851270,
+        0.7071093530718511,
+        0.7558566451857165,
+        0.5344733033923317
+      ],
+      [
+        1749093,
+        0.5246435232278234,
+        null,
+        0.5246435232278234
+      ],
+      [
+        392500,
+        0.5407613924321397,
+        0.8205106569290161,
+        0.4437004853463445
+      ],
+      [
+        1564197,
+        0.3214374350461745,
+        null,
+        0.3214374350461745
+      ],
+      [
+        1272108,
+        0.3214374350461745,
+        null,
+        0.3214374350461745
+      ],
+      [
+        1231947,
+        0.30013499822029466,
+        null,
+        0.30013499822029466
+      ],
+      [
+        1524009,
+        0.30013499822029466,
+        null,
+        0.30013499822029466
+      ],
+      [
+        1239952,
+        0.2927207772630684,
+        null,
+        0.2927207772630684
+      ],
+      [
+        1532014,
+        0.2927207772630684,
+        null,
+        0.2927207772630684
+      ],
+      [
+        424090,
+        0.30013499822029466,
+        0.7899249789426912,
+        0.23708413214913093
+      ],
+      [
+        641586,
+        0.3214374350461745,
+        0.729622004002452,
+        0.23452782551979784
+      ],
+      [
+        433020,
+        0.2927207772630684,
+        0.6327000628957204,
+        0.18520445418522755
+      ]
+    ],
+    "sim_ingreds_oID_list_from_trees": [
+      [
+        "wm_835593418",
+        0.18835912482103664,
+        0,
+        0.18835912482103664
+      ],
+      [
+        "wm_45082131",
+        0.17232534266401606,
+        0,
+        0.17232534266401606
+      ],
+      [
+        "tg_47110695",
+        0.1417359021446648,
+        0,
+        0.1417359021446648
+      ],
+      [
+        "wm_31000887",
+        0.1417359021446648,
+        0,
+        0.1417359021446648
+      ],
+      [
+        "tg_77574730",
+        0.13738244658070142,
+        0,
+        0.13738244658070142
+      ],
+      [
+        "wm_45618178",
+        0.12802453438591913,
+        0,
+        0.12802453438591913
+      ],
+      [
+        "tg_78296955",
+        0.12281494538145468,
+        0,
+        0.12281494538145468
+      ],
+      [
+        "wm_149976727",
+        0.15431440491694412,
+        0.7550397877984085,
+        0.11651351554272718
+      ],
+      [
+        "wm_12329756",
+        0.17587033879775021,
+        0.5474095582203913,
+        0.09627310446534698
+      ],
+      [
+        "wm_44901222",
+        0.17232534266401606,
+        0.5187393135258451,
+        0.08939192995663772
+      ],
+      [
+        "wm_50003598",
+        0.16088866327159915,
+        0.5328206988039456,
+        0.08572480999400615
+      ],
+      [
+        "wm_594809000",
+        0.16088866327159915,
+        0.5105749324422806,
+        0.08214571838062557
+      ],
+      [
+        "wm_12335104",
+        0.16088866327159915,
+        0.4859595140117263,
+        0.0781853766134626
+      ],
+      [
+        "wm_486203982",
+        0.16088866327159915,
+        0.41966584153318964,
+        0.06751947626502564
+      ],
+      [
+        "wm_31955541",
+        0.14164435051795088,
+        0.47158594942464627,
+        0.06679748551964525
+      ],
+      [
+        "tg_53321685",
+        0.17587033879775021,
+        0.3717391125179105,
+        0.0653778836628999
+      ],
+      [
+        "wf_rub-with-love-steak-spice-rub-8e8080",
+        0.13150291797989497,
+        0.3215491320169721,
+        0.0422846491341343
+      ],
+      [
+        "wm_36311891",
+        0.12518563721840079,
+        0.25287356321839083,
+        0.03165613814718181
+      ],
+      [
+        "wm_10313896",
+        0.12473497573501162,
+        0.21945701357466063,
+        0.02737396526311341
+      ],
+      [
+        "tg_78295045",
+        0.12281494538145468,
+        0.18420168067226894,
+        0.022622719350936866
+      ]
+    ],
+    "FPro_from_FDC": null,
+    "duplicate_IDs": null,
+    "ignore_duplicate": false,
+    "tree_branch_depth_sum": 5
+  }
