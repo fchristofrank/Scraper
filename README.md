@@ -18,7 +18,7 @@ Verify whether the nutritional data from **Target's backend** matches the data i
 
 3. **Whole Foods & Walmart Support**  
    - These retailers do not provide APIs for nutritional data.
-   - Instead, we **scrape nutritional data from their product pages' HTML** using `BeautifulSoup`.
+   - Instead, we **scrape nutritional data from their product pages' HTML** using `BeautifulSoup`. [Not yet done, prev researcher (Babak?) codes can be slightly reused)
 
 ---
 
